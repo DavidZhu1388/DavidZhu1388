@@ -1,11 +1,13 @@
 # Welcome to My GitHub Profile
 
 ## About Me
-Hello there, I am a passionate Business and Computer Science student at UBC, expected to graduate in 2026. My academic journey has equipped me with a solid foundation in both technical and business disciplines. I'm enthusiastic about bridging the gap between technology and business and actively looking for Co-op opportunities to apply my skills and knowledge in real-world settings, contribute to innovative projects, and gain practical experience. 
+Hello there! I am a passionate Business and Computer Science student at UBC, expected to graduate in 2026. I'm enthusiastic about bridging the gap between technology and business and actively looking for Co-op opportunities to apply my skills and knowledge in real-world settings, contribute to innovative projects, and gain practical experience. 
 
 Feel free to explore my repositories to see more of my work and projects. Let's connect and collaborate on exciting ventures!
 
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidZhu1388)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidZhu1388&layout=compact)
 
 <!--
 **DavidZhu1388/DavidZhu1388** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
